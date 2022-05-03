@@ -1,4 +1,4 @@
-# reg-factors - On the Interaction of Regularization Factors in Low-resource Neural Machine Translation
+# On the Interaction of Regularization Factors in Low-resource Neural Machine Translation
 This repository contains the necessay packages and configuration files for our models used for our submission to EAMT 22 "On the Interaction of Regularization Factors in Low-resource Neural Machine Translation"
 
 ## Abstract
