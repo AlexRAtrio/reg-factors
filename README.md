@@ -1,2 +1,5 @@
-# reg-factors
-Python code for EAMT 22 "On the Interaction of Regularization Factors in Low-resource Neural Machine Translation"
+# reg-factors - On the Interaction of Regularization Factors in Low-resource Neural Machine Translation
+This repository contains the necessay packages and configuration files for our models used for our submission to EAMT 22 "On the Interaction of Regularization Factors in Low-resource Neural Machine Translation"
+
+## Abstract
+We explore the roles and interactions of the hyper-parameters governing regularization, and propose a range of values applicable to low-resource neural machine translation.  We demonstrate that default or recommended values for high-resource settings are not optimal for low-resource ones, and that more aggressive regularization is needed when resources are scarce, in proportion to their scarcity.  We explain our observations by the generalization abilities of sharp vs. flat basins in the loss landscape of a neural network.  Results for four regularization factors corroborate our claim: batch size, learning rate, dropout rate, and gradient clipping.  Moreover, we show that optimal results are obtained when using several of these factors, and that our findings generalize across datasets of different sizes and languages.
