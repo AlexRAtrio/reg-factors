@@ -6,7 +6,7 @@ We explore the roles and interactions of the hyper-parameters governing regulari
 
 
 ## Model configuration files
-We attach the configuration files of all models used in the paper in the configs folder, inside a folder with the number and name of the section in which they are used.
+We attach the package requirements for our experiments as well as the configuration files of all models used in the paper in the "configs" folder, inside a folder with the number and name of the section in which they are used.
 
 The abbreviations used in configs folder for the names of the models are as follows:
 
