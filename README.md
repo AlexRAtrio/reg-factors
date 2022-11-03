@@ -24,4 +24,4 @@ The abbreviations used in configs folder for the names of the models are as foll
 
 ## Reference
 
-Atrio À.R., Popescu-Belis A. (2022) - On the Interaction of Regularization Factors in Low-resource Neural Machine Translation. Proceedings of the 23rd Annual Conference of the European Association for Machine Translation (EAMT).
+Atrio À.R., Popescu-Belis A. (2022) - [On the Interaction of Regularization Factors in Low-resource Neural Machine Translation. Proceedings of the 23rd Annual Conference of the European Association for Machine Translation (EAMT)](https://aclanthology.org/2022.eamt-1.14/).
